@@ -13,4 +13,4 @@ How to run:
 python study_planner.py
 
 Author: Basemera Hilda 
-Repo:https://github.com/basemerahildaSmart-study-planner
+Repo:https://github.com/helda1basemera/Smart-study-planner
